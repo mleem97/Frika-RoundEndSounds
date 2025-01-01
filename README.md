@@ -14,7 +14,8 @@ Dieses Addon ermöglicht es, benutzerdefinierte Musik für den Rundenabschluss i
 ## Installation
 
 1. Lade das Addon in deinen `addons`-Ordner in Garry's Mod hoch.
-2. Stelle sicher, dass die Ordnerstruktur für die Sounddateien korrekt ist:
+1.1 Lösche alle "yes" dateien - oder nicht. Die machen nichts.
+2. Stelle sicher, dass die Ordnerstruktur für die Sounddateien korrekt ist: Sie sollte beim herunterladen mit dabei sein.
 sound/ ├── round/ ├── traitors/ ├── innocents/ ├── timelimit/ ├── teams/
 3. Füge die gewünschten `.mp3`- oder `.ogg`-Dateien in die entsprechenden Verzeichnisse ein.
 
@@ -32,7 +33,8 @@ Stelle sicher, dass die folgenden Netzwerk-Strings definiert sind:
 ## Anforderungen
 
 - **Garry's Mod**
-- **TTT-Modus**
+- **TTT-Gamemode**
+- Alternativ **TTT2-Gamemode**
 
 ## Fehlerbehebung
 
