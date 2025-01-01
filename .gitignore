@@ -1,0 +1,5 @@
+# Ignore all .mp3 files
+*.mp3
+
+# Optional: Ignore mp3 files in specific directories
+sound/**/*.mp3
